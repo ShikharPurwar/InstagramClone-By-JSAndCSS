@@ -29,6 +29,7 @@ header {
   height: 54px;
   display: flex;
   justify-content: center;
+  user-select: none;
 }
 
 .logo img {
